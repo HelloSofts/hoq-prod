@@ -1,0 +1,27 @@
+{
+  "name": "hoqprod",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/HelloSofts/hoq-prod.git"
+  },
+  "keywords": [
+    "hoq"
+  ],
+  "author": "Md. Zahirul Haque",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/HelloSofts/hoq-prod/issues"
+  },
+  "homepage": "https://github.com/HelloSofts/hoq-prod#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.3",
+    "morgan": "^1.9.0"
+  }
+}
